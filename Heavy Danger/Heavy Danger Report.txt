@@ -1,0 +1,304 @@
+﻿Heavy Danger.swf Movie Report
+------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1158    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 349</xmp:CreatorTool> <xmp:CreateDate>2013-08-02T00:46:08-04:00</xmp:CreateDate> <xmp:MetadataDate>2013-10-11T19:45:45-04:00</xmp:MetadataDate> <xmp:ModifyDate>2013-10-11T19:45:45-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F30B963FCF32E31196B985968E58E43A</stRef:instanceID> <stRef:documentID>xmp.did:5E9B0DE12EFBE211B85DC099BEC70941</stRef:documentID> <stRef:originalDocumentID>xmp.did:5E9B0DE12EFBE211B85DC099BEC70941</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:F40B963FCF32E31196B985968E58E43A</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:F40B963FCF32E31196B985968E58E43A</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:5E9B0DE12EFBE211B85DC099BEC70941</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         314611         314611    Scene 1
+      2        2560328        2874939     (AS 3.0 Classes Export Frame)
+      3              1        2874940    
+      4          67877        2942817    
+      5           1005        2943822    
+      6            979        2944801    
+      7            210        2945011    
+      8             46        2945057    
+      9          18162        2963219    
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1          17460           337                164947
+
+Symbol                Shape Bytes    Text Bytes    ActionScript Bytes
+------------------    -----------    ----------    ------------------
+ammoSymbol                      0             0                     0
+Symbol 22                     238             0                     0
+assaultRifle                  390             0                     0
+backButton                      0           636                     0
+background                     91             0                     0
+badBearLogo                     0             0                     0
+Symbol 1                        0             0                     0
+bflash                          0             0                     0
+black                           0             0                     0
+blackBox                       47             0                     0
+blackFade                       0             0                     0
+Symbol 45                       0             0                     0
+bonvie2                      2765             0                     0
+bulletHit                     295             0                     0
+burnMark                       73             0                     0
+buyButton                       0           892                     0
+carl                        12375             0                     0
+sniperRifle                   297             0                     0
+pistol                        120             0                     0
+rocketLauncher                458             0                     0
+playerCircle                    0             0                     0
+carlBullet                     35             0                     0
+carlscene                       0             0                     0
+Symbol 60                       0             0                     0
+Symbol 84                       0            88                     0
+Symbol 85                       0             0                     0
+Symbol 86                       0             0                     0
+Symbol 87                       0            88                     0
+Symbol 88                       0            89                     0
+Symbol 64                       0             0                     0
+Symbol 67 copy 2                0             0                     0
+Symbol 66 copy 2                0             0                     0
+continueGameButton              0           322                     0
+controlsButton                117           648                     0
+controlsScreen                392          2838                     0
+credits                        75          1257                     0
+logo                            0             0                     0
+shopBack                       68             0                     0
+creditsButton                   0           320                     0
+crossHair                      34             0                     0
+cursor                          0             0                     0
+hitMarker                     100             0                     0
+cutscene                        0             0                     0
+introscene                      0             0                     0
+normscene                       0             0                     0
+squeakersscene                  0             0                     0
+happyscene                      0             0                     0
+outroscene                      0             0                     0
+damageFlash                     0             0                     0
+Symbol 21                      53             0                     0
+descriptText                    0            66                     0
+endintroscene                  36             0                     0
+Symbol 63                       0             0                     0
+Symbol 61                       0           111                     0
+Symbol 62 copy                  0           211                     0
+endscene                        0             0                     0
+enemyFour                    2250             0                     0
+Symbol 51                       0             0                     0
+enemyRifle                    495             0                     0
+Symbol 50                    2031             0                     0
+Symbol 49                      56             0                     0
+Symbol 48                     119             0                     0
+Symbol 47                     101             0                     0
+Symbol 46                     117             0                     0
+enemyFourBullet                33             0                     0
+enemyOne                     2786             0                     0
+Symbol 11                       0             0                     0
+Symbol 10                    1244             0                     0
+Symbol 9                      193             0                     0
+Symbol 8                       56             0                     0
+Symbol 7                      119             0                     0
+Symbol 5                       98             0                     0
+Symbol 4                      131             0                     0
+enemyOneBullet                 33             0                     0
+enemySniper                   596             0                     0
+enemyTank                     203             0                     0
+tankGun                      2134             0                     0
+Symbol 35                     371             0                     0
+Symbol 36                     510             0                     0
+enemyTankRocket                 0             0                     0
+Symbol 14                      43             0                     0
+enemyThree                    424             0                     0
+Symbol 39                       0             0                     0
+shotgun                       453             0                     0
+Symbol 40                     156             0                     0
+Symbol 41                      72             0                     0
+Symbol 42                     119             0                     0
+Symbol 43                     103             0                     0
+Symbol 44                     135             0                     0
+enemyThreeBullet               31             0                     0
+enemyTwo                     2510             0                     0
+Symbol 27                     148             0                     0
+Symbol 26                     656             0                     0
+Symbol 28                     196             0                     0
+Symbol 29                      75             0                     0
+Symbol 30                     135             0                     0
+Symbol 31                      83             0                     0
+Symbol 32                     146             0                     0
+enemyTwoBullet                 33             0                     0
+eventText                       0            68                     0
+ex                             53             0                     0
+fade                            0             0                     0
+Symbol 54                       0             0                     0
+fadeOut                         0             0                     0
+Symbol 55                       0             0                     0
+fireball                       73             0                     0
+floor                          54             0                     0
+greenFlash                      0             0                     0
+Symbol 52                      33             0                     0
+gunFlash                        0             0                     0
+Symbol 20                      65             0                     0
+happy                        2438             0                     0
+lmg                           313             0                     0
+happyBullet                    33             0                     0
+Symbol 83                       0             0                     0
+Symbol 82                       0             0                     0
+Symbol 81                       0             0                     0
+Symbol 80                       0            44                     0
+Symbol 67 copy                  0             0                     0
+Symbol 66 copy                  0             0                     0
+HUD                            49           136                     0
+reloadText                     46           163                     0
+tutorialBox                    47          6355                     0
+hudBox                        136           608                     0
+tankBox                        47           272                     0
+rocketBlock                   101            65                     0
+red                             0             0                     0
+Symbol 33                      49             0                     0
+Symbol 62                       0           209                     0
+light                          73             0                     0
+loader                          0            67                     0
+Symbol 2                        0             0                     0
+Symbol 3                       47             0                     0
+menuArt                         0             0                     0
+Symbol 56                       0             0                     0
+menuFlash                      51             0                     0
+moreGamesButton                 0           326                     0
+muteButton                     72             0                     0
+newGameButton                   0           644                     0
+nextWaveButton                 47           326                     0
+norm                         6512             0                     0
+normBullet                     33             0                     0
+Symbol 68                       0            44                     0
+Symbol 71                       0            44                     0
+Symbol 70                       0            44                     0
+Symbol 69                       0             0                     0
+Symbol 67                       0             0                     0
+Symbol 66                       0             0                     0
+Symbol 89                       0            89                     0
+Symbol 92                       0           987                     0
+Symbol 91                       0           134                     0
+Symbol 90                       0           134                     0
+panelButton                     0           204                     0
+pictureBlock                  102           409                     0
+pistolAmmoSymbol                0             0                     0
+rocketAnim                      0             0                     0
+squeakers                   19150             0                     0
+tank                          191             0                     0
+Symbol 23                     128             0                     0
+pistolBullet                   33             0                     0
+Symbol 24                      71             0                     0
+pointText                       0           218                     0
+quitButton                     47           318                     0
+quitButton2                    34           632                     0
+Symbol 25                      49             0                     0
+retryButton                     0           636                     0
+reviveCircle                  160           114                     0
+rocket                         81             0                     0
+Symbol 53                     103             0                     0
+rocketHit                       0             0                     0
+Symbol 15                      66             0                     0
+Symbol 16                      66             0                     0
+Symbol 17                      70             0                     0
+Symbol 18                      66             0                     0
+Symbol 19                      63             0                     0
+shopBack copy                  36             0                     0
+shopButton                      0           318                     0
+skipButton                     96           636                     0
+smoke                           0             0                     0
+squeakersBullet                31             0                     0
+Symbol 76                       0             0                     0
+Symbol 77                       0             0                     0
+Symbol 78                       0            90                     0
+Symbol 73                       0             0                     0
+Symbol 75                       0             0                     0
+Symbol 6                        0             0                     0
+Symbol 12                       0             0                     0
+Symbol 13                       0             0                     0
+Symbol 34                       0             0                     0
+Symbol 37                     428             0                     0
+Symbol 38                     279             0                     0
+Symbol 57                       0             0                     0
+Symbol 58                       0             0                     0
+Symbol 59                       0             0                     0
+Symbol 65                      61             0                     0
+Symbol 72                       0             0                     0
+Symbol 74                       0             0                     0
+Symbol 79                       0             0                     0
+Symbol 150                      0             0                     0
+Symbol 159                      0             0                     0
+Symbol 161                      0             0                     0
+Symbol 163                      0             0                     0
+Symbol 171                      0             0                     0
+Symbol 172                      0             0                     0
+Symbol 173                      0             0                     0
+Symbol 174                      0             0                     0
+Symbol 175                      0             0                     0
+Symbol 176                      0             0                     0
+Symbol 177                      0             0                     0
+Symbol 178                      0             0                     0
+tankGun2                     1773             0                     0
+tankHit                         0             0                     0
+tankRocket                      0             0                     0
+upgradeButton                   0           264                     0
+
+Font Name        Bytes         Characters
+-------------    ----------    ----------
+LucidaConsole          9634     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+            163239    Scene 1:Frame 1
+              1708    Scene 1:Frame 2
+
+Bitmap                                       Compressed    Original      Compression
+-----------------------------------------    ----------    ----------    -----------
+Final compostion.png                             139461       1228800    JPEG Quality=100
+Heavy Danger Mugs Norm.png                       201103      12583200    JPEG Quality=65
+Norm in profile.png                               10285        676644    JPEG Quality=65
+Heavy Danger Mugs Squeakers (Juan) (_.png        172744      10491520    JPEG Quality=65
+Squeakers in profile.png                          10779        560592    JPEG Quality=65
+Heavy Danger Mugs Happy.png                      143107       9543784    JPEG Quality=65
+Happy in profile.png                              11707        675392    JPEG Quality=65
+Heavy Danger Mugs Carl.png                       202600      13452296    JPEG Quality=65
+Carl in profile.png                               11560        648960    JPEG Quality=65
+Bad Bear Logo White Small.png                    106760       2250000    JPEG Quality=100
+background.png                                   162661       1228800    JPEG Quality=100
+Logo.png                                          56151        758172    JPEG Quality=100
+cloud2.png                                        67129        640000    JPEG Quality=10
+
+Event Sounds: 44KHz Stereo 32 kbps MP3
+
+
+Sound name           Bytes         Format
+-----------------    ----------    ------
+tankShot.wav              23664    44KHz Stereo 160 kbps MP3
+tankExplode.wav            6712    22KHz Mono 160 kbps MP3
+sniperShot.wav            48707    44KHz Stereo 160 kbps MP3
+shotgunShot.mp3           11497    11KHz Mono 16 kbps MP3
+shotgunReload.wav          9275    44KHz Mono 160 kbps MP3
+rocketLaunch.wav          11143    44KHz Stereo 160 kbps MP3
+rifleReload.wav           37113    44KHz Stereo 160 kbps MP3
+pistolShot.wav            11470    22KHz Stereo 64 kbps MP3
+pistolReload.mp3          14853    44KHz Stereo 160 kbps MP3
+pickup.wav                 2606    44KHz Mono 160 kbps MP3
+menuSounds.wav            64136    22KHz Mono 32 kbps MP3
+lmgShot.wav                8360    44KHz Stereo 160 kbps MP3
+lmgReload.wav             30319    22KHz Stereo 64 kbps MP3
+introSong.mp3            174456    11KHz Mono 16 kbps MP3
+gameover.wav             147292    22KHz Stereo 64 kbps MP3
+exciteTrack.wav           65403    44KHz Stereo 160 kbps MP3
+ex1.wav                   13926    44KHz Stereo 160 kbps MP3
+enemyShot.wav             10386    44KHz Mono 160 kbps MP3
+emptyGun.wav               3723    44KHz Stereo 160 kbps MP3
+earnPoint.wav              6681    44KHz Mono 160 kbps MP3
+click.wav                  3259    44KHz Stereo 160 kbps MP3
+chopper.mp3               70049    22KHz Stereo 64 kbps MP3
+cameraFlash.wav            9068    22KHz Stereo 64 kbps MP3
+calmTrack.wav            251833    44KHz Stereo 160 kbps MP3
+buy.wav                   16459    22KHz Stereo 64 kbps MP3
+assaultShot.mp3            1676    22KHz Stereo 64 kbps MP3
+actionTrack.wav          141459    44KHz Stereo 160 kbps MP3
+logoSound.wav             66794    44KHz Stereo 160 kbps MP3
+
+
+
+
